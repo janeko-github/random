@@ -24,25 +24,30 @@ Permite obviar determinados ficheros locales en el envío al repositorio de GitH
 - [Versión 3](#ver3)
 - [Versión 4](#ver4)
 - [Versión 5](#ver5)
+- [Versión 6](#ver6)
 
 
-## ver1
+##ver1
 
 creación de `random.js` y `.gitignore`.
 
-## ver2
+##ver2
 
 Modificación de  `random.js`.
 
-## ver3
+##ver3
 
 Añadido el primer `readme.md`.
 
-## ver4
+##ver4
 
 Primera modificación de `readme.md`.
 
 
-## ver5
+##ver5
 
 Segunda modificación de `readme.md`.
+
+##ver6
+
+Añadida la licencia `LICENSE.md`.
