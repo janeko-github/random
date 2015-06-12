@@ -3,10 +3,10 @@ Desarrollo de servicios en la nube con HTML5, Javascript y node.js
 
 Ejemplo de creación de repositorio en local y envío a GitHub
 
-´´´
+```
 Pedro Alarcón Sánchez
 
-´´´
+```
 
 ## Tema 5. GIT.
 
