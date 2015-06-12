@@ -3,6 +3,11 @@ Desarrollo de servicios en la nube con HTML5, Javascript y node.js
 
 Ejemplo de creación de repositorio en local y envío a GitHub
 
+´´´
+Pedro Alarcón Sánchez
+
+´´´
+
 ## Tema 5. GIT.
 
 # Proyecto random
@@ -25,6 +30,7 @@ Permite obviar determinados ficheros locales en el envío al repositorio de GitH
 - [Versión 4](#ver4)
 - [Versión 5](#ver5)
 - [Versión 6](#ver6)
+- [Versión 7](#ver7)
 
 
 ##ver1
@@ -51,3 +57,7 @@ Segunda modificación de `readme.md`.
 ##ver6
 
 Añadida la licencia `LICENSE.md`.
+
+##ver7
+
+Tercera modificación de `readme.md` Añado mi nombre.
